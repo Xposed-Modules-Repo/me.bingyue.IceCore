@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./冰社_logo.png" style="zoom:45%;" />
+<img src="./冰社_logo.png"  width="250" height="250" />
 
 # 冰社 / IceCore
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/bingqiu456/IceCore)
