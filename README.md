@@ -1,10 +1,11 @@
 <div align="center">
-
-<img src="./冰社_logo.png"  width="250" height="250" />
+<img src="https://pic.imgdb.cn/item/671c8857d29ded1a8ce444d9.png"  width="250" height="250" />
 
 # 冰社 / IceCore
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/bingqiu456/IceCore)
 [![Github](https://img.shields.io/badge/Github-IceCore-black.svg)](https://github.com/bingqiu456/IceCore)
+[![QQ_group](https://img.shields.io/badge/QQ%E7%BE%A4-855183768-orange?style=flat-square)](https://qm.qq.com/q/hnbnj43qwM)
+
 
 ✨一个集成了各种好玩功能的Xposed模块，支持获取vip，去除广告，等功能 ✨
 
@@ -14,6 +15,14 @@
 ## ✨如何使用
 
 点击[这里](https://github.com/Xposed-Modules-Repo/me.bingyue.IceCore/releases)，下载**最新版本**
+
+---
+
+## ✨请看我
+
+由于本模块是最近开始写的，很多`app`还没适配，目前在写`ui`了，如果你对冰社有更好的建议，可以加入[QQ群](https://qm.qq.com/q/hnbnj43qwM)来跟我们探讨模块
+
+你也可以提出想适配的`app` 我会看看行不行
 
 ---
 
@@ -38,8 +47,6 @@
 | fake_location | 🟢    | 解锁`vip`完整版                                    | 1.3.5 BETA |
 | 堆糖          | 🟢    | 可以自由使用vip功能                                | 8.42.3     |
 | 番茄小说      | 🟢    | 去除广告                                           | 6.4.5.32   |
-
-
 
 ---
 
