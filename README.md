@@ -69,6 +69,8 @@
 | vmos pro      | 🟢    | 去登录                                             | 3.0.7      |
 | 番茄小说      | 🟢    | 去除广告                                           | 6.4.5.32   |
 | 小熊录屏      | 🟢    | 可以使用vip功能                                    | 2.4.4      |
+| 不背单词      | 🟢    | 终生大会员                                         | 8.0        |
+| Autocmd       | 🟢    | 解锁专业版                                         | 1.1.9      |
 | 一木记账      | 🟢    | `vip`功能解锁                                      | 5.8.9      |
 | nfc tool      | 🟢    | 可以使用vip功能                                    | 2.6.5      |
 | 滴答清单      | 🟢    | `vip`破解                                          | 7.3.1.0    |
@@ -90,6 +92,12 @@ https://www.123865.com/s/dNbHjv-kqFsA?提取码：CZ3Z
 [https://github.com/bingqiu456/IceCore](https://github.com/bingqiu456/IceCore)
 
 [Aonther: bingyue](https://github.com/bingqiu456)
+
+---
+
+## ⭐Star
+
+[![Stargazers over time](https://starchart.cc/bingqiu456/IceCore.svg)](https://starchart.cc/bingqiu456/IceCore)
 
 ---
 
