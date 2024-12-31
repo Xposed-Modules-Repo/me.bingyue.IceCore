@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://pic.imgdb.cn/item/671c8857d29ded1a8ce444d9.png"  width="250" height="250" />
+<img src="https://s21.ax1x.com/2024/12/31/pAzqOPg.png"  width="250" height="250" />
+
 
 # 冰社 / IceCore
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/bingqiu456/IceCore)
@@ -7,11 +8,13 @@
 [![QQ_group](https://img.shields.io/badge/QQ%E7%BE%A4-855183768-orange?style=flat-square)](https://qm.qq.com/q/hnbnj43qwM)
 
 
-✨一个集成了各种好玩功能的Xposed模块，支持获取vip，去除广告，等功能 ✨
+✨**一个集成了各种好玩功能的Xposed模块，支持获取vip，去除广告，等功能** ✨
 
 </div>
 
 **🌈冰社2.0 大版本更新来了，这次更新内容较多，大家可以下载体验一下🌈**
+
+🎉**编写模块不易 有能力的大佬不如[捐赠](https://afdian.com/a/bingyueblog)一下**🎉
 
 ## ✨如何使用
 
@@ -65,11 +68,14 @@
 | 倒数日        | 🟢    | 破解了内购，点击购买后退出即可获得`vip`            | 1.22.0\    |
 | 小黑屋        | 🟢    | 破解了使用激活码激活，随便输入一个支付宝订单号即可 | 1.9.18c    |
 | fake_location | 🟢    | 解锁`vip`                                          | 1.3.5 BETA |
+| fake_location | 🟢    | 解锁vip，去除更新，去除云控                        | 1.3.2.2    |
 | 堆糖          | 🟢    | 可以自由使用vip功能                                | 8.42.3     |
 | vmos pro      | 🟢    | 去登录                                             | 3.0.7      |
 | 番茄小说      | 🟢    | 去除广告                                           | 6.4.5.32   |
 | 小熊录屏      | 🟢    | 可以使用vip功能                                    | 2.4.4      |
-| 不背单词      | 🟢    | 终生大会员                                         | 8.0        |
+| 不背单词      | 🟢    | 终生大会员                                         | 5.0-5.5.6  |
+| 潮汐          | 🟢    | 解锁`vip`功能，大部分功能有服务器校验              | 4.2.4      |
+| 无痛单词      | 🟢    | 解锁终生vip                                        | 1.18.0     |
 | Autocmd       | 🟢    | 解锁专业版                                         | 1.1.9      |
 | 一木记账      | 🟢    | `vip`功能解锁                                      | 5.8.9      |
 | nfc tool      | 🟢    | 可以使用vip功能                                    | 2.6.5      |
